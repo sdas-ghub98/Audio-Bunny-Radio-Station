@@ -1,13 +1,4 @@
-/*.parallax
-{
-    background-image: url(../Image-files/p1.png);
-    filter: blur(2px);
-    min-height: 500px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}*/
+
 .header
 {
     overflow: hidden;
