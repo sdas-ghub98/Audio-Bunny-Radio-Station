@@ -20,7 +20,7 @@ jQuery(function ($) {
         // initialize playlist and controls
         var index = 0,
             playing = false,
-            mediaPath = '/D:/Sourish Songs/English Songs/', //File path
+            mediaPath = '../Song-files/', //File path
             extension = '',
             tracks = [{
                 "track": 1,

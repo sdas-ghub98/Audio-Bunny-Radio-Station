@@ -20,7 +20,7 @@ jQuery(function ($) {
         // initialize playlist and controls
         var index = 0,
             playing = false,
-            mediaPath = '/D:/NIIT University/3 Year/Semester 6/Multi-Device Programming/Project/Local-Radio-Station-MDP-master/Song-files/',
+            mediaPath = '../Song-files/',
             extension = '',
             tracks = [{
                 "track": 1,
